@@ -1,0 +1,12 @@
+P:\FileHistory\AhmedHafez\AHMEDHAFEZ (2)\Data\C\Users\AhmedHafez
+
+-----------------------
+fff
+.electron
+.expo
+.ionic
+
+>> .nuget
+
+Documents
+Recorded Calls
